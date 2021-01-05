@@ -80,7 +80,7 @@ Week 12, 04/05 | Non-Instructional Day
 Week 12, 04/07 | Noise : Privacy
 Week 13, 04/12 | Graph Analysis : Markov Chains
 Week 13, 04/14 | Graph Analysis : PageRank 
-Week 14, 04/19 | Graph Analysis : MapReduce |or| Communities
+Week 14, 04/19 | Graph Analysis : MapReduce or Communities
 Week 14, 04/21 | Class Project Presentation
 Week 15, 04/26 | Final Exam
 
