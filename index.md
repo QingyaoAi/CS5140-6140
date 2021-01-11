@@ -1,10 +1,10 @@
-# *CS4140/5140/6140 Data Mining*
+# *DS4140/CS5140/CS6140 Data Mining*
 
 Class Hours: Monday/Wednesday 3:00pm-4:20pm, IVC (Zoom Link on Canvas)
 
 ## Instructor
 
-<a href="http://aiqingyao.org">Qingyao Ai</a> (aiqy[at]cs[dot]utah[])
+<a href="http://aiqingyao.org">Qingyao Ai</a> (aiqy[at]cs[dot]utah[dot]edu)
 
 Office Hours: Monday 4:30pm-5:30pm, IVC (Zoom Link on Canvas)
 
@@ -38,6 +38,7 @@ Office Hours: xxx, IVC (Zoom Link on Canvas)
 
 * <a href="https://www.cs.utah.edu/~jeffp/teaching/cs5140-S20/cs5140.html">*Previous Class Website*</a>. Jeff M. Phillips.
 * <a href="https://www.cs.utah.edu/~jeffp/teaching/cs5140-S20/cs5140/Syllabus.pdf">*Previous Class Syllabus*</a>. Jeff M. Phillips.
+* <a href="https://www.cs.utah.edu/~jeffp/teaching/cs5140-S20/cs5140/project.pdf">*Previous Class Project Description*</a>. Jeff M. Phillips.
 
 
 ## Grading
@@ -46,10 +47,14 @@ The grade will count the assessments using the following proportions (tentative 
 * __40%__ of your grade will be determined by homework:
   * We will have 8 short homework assignments roughly covering each main topic in the class 
   * Each assignment take __5%__ of the final grade.
+* __20%__ of your grade will be determined by the class project.
+  * __5%__ of your grade will be determined by the project proposal.
+  * __5%__ of your grade will be determined by the project poster presentation.
+  * __10%__ of your grade will be determined by the project final report.
 * __10%__ of your grade will be determined by the paper presentation. 
 * __15%__ of your grade will be determined by Mid-term Exam.
 *	__15%__ of your grade will be determined by Final Exam.
-* __20%__ of your grade will be determined by the class project. 
+ 
 
 ## Tentative Class Schedule
 
@@ -86,4 +91,4 @@ Week 15, 04/26 | Final Exam
 
 ## Acknowledgements
 Special thanks to Prof. Jeff M. Phillips from University of Utah.
-Some teaching materials are borrowed from his courses on CS5140/6140: Data Mining.
+Teaching materials are borrowed from his courses on CS5140/6140: Data Mining.
