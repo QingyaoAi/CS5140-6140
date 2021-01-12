@@ -47,13 +47,15 @@ The grade will count the assessments using the following proportions (tentative 
 * __40%__ of your grade will be determined by homework:
   * We will have 8 short homework assignments roughly covering each main topic in the class 
   * Each assignment take __5%__ of the final grade.
-* __20%__ of your grade will be determined by the class project.
+* __25%__ of your grade will be determined by the class project.
   * __5%__ of your grade will be determined by the project proposal.
+  * __5%__ of your grade will be determined by the intermediate report.
   * __5%__ of your grade will be determined by the project poster presentation.
   * __10%__ of your grade will be determined by the project final report.
 * __10%__ of your grade will be determined by the paper presentation. 
-* __15%__ of your grade will be determined by Mid-term Exam.
-*	__15%__ of your grade will be determined by Final Exam.
+* __10%__ of your grade will be determined by Mid-term Exam.
+* __10%__ of your grade will be determined by Final Exam.
+* __5%__ of your grade will be determined by your participation. Students who finish the class project, peer reviews, and all assignments/exams will receive the full credits of participation. 
  
 
 ## Tentative Class Schedule
@@ -83,8 +85,8 @@ Week 11, 03/29 | Dim Reduce : Metric Learning | 	M4D 7.6-7.8
 Week 11, 03/31 | Noise : Random Projections and Noise in Data | 	M4D 7.10+8.6, MMDS 9.1, FoDS 2.9
 Week 12, 04/05 | Non-Instructional Day
 Week 12, 04/07 | Noise : Calibration and Counterfactual Learning | 
-Week 13, 04/12 | Graph Analysis : Markov Chains | M4D 10.1 | MMDS 10.1+5.1, FoDS 5
-Week 13, 04/14 | Graph Analysis : PageRank | M4D 10.2 | MMDS 5.1+5.4
+Week 13, 04/12 | Graph Analysis : Markov Chains | M4D 10.1, MMDS 10.1+5.1, FoDS 5
+Week 13, 04/14 | Graph Analysis : PageRank | M4D 10.2, MMDS 5.1+5.4
 Week 14, 04/19 | Graph Analysis : MapReduce or Communities | M4D 10.4, MMDS 2+10.2+5.5, FoDS 8.8+3.4
 Week 14, 04/21 | Class Project Presentation
 Week 15, 04/26 | Final Exam
