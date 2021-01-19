@@ -84,7 +84,7 @@ Week 10, 03/24 | Dim Reduce : Matrix Sketching | 	M4D 11.3, MMDS 9.4, FoDS 2.7+7
 Week 11, 03/29 | Dim Reduce : Metric Learning | 	M4D 7.6-7.8 
 Week 11, 03/31 | Noise : Random Projections and Noise in Data | 	M4D 7.10+8.6, MMDS 9.1, FoDS 2.9
 Week 12, 04/05 | Non-Instructional Day
-Week 12, 04/07 | Noise : Calibration and Counterfactual Learning | 
+Week 12, 04/07 | Noise : Calibration and Counterfactual Learning | Cascade Model <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.1288&rep=rep1&type=pdf" target="\blank">Craswell et al. (WSDM 2008)</a> <br /> DBN <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.7270&rep=rep1&type=pdf" target="\blank">Chapelle and Zhang (WWW 2009)</a> <br /> UBM <a href="https://www.researchgate.net/profile/Georges_Dupret/publication/200110492_A_user_browsing_model_to_predict_search_engine_click_data_from_past_observations/links/54e4c5ea0cf29865c3351048.pdf" target="\blank">Dupret and Piwowarski (SIGIR 2008)</a> <br /> IPW <a href="https://www.cs.cornell.edu/people/tj/publications/joachims_etal_17a.pdf" target="\blank">Joachims et al. (WSDM 2017)</a> <br /> Regression EM <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/3bace79f9bcead0b20dec31e2a0878346ad2fb0d.pdf" target="\blank">Wang et al. (WSDM 2018)</a> <br /> DLA <a href="https://arxiv.org/abs/1804.05938" target="\blank"> Ai et al. (SIGIR 2018)</a>
 Week 13, 04/12 | Graph Analysis : Markov Chains | M4D 10.1, MMDS 10.1+5.1, FoDS 5
 Week 13, 04/14 | Graph Analysis : PageRank | M4D 10.2, MMDS 5.1+5.4
 Week 14, 04/19 | Graph Analysis : MapReduce or Communities | M4D 10.4, MMDS 2+10.2+5.5, FoDS 8.8+3.4
