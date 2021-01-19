@@ -10,18 +10,17 @@ Office Hours: Monday 4:30pm-5:30pm, IVC (Zoom Link on Canvas)
 
 ## TA/TM
 
-Zhenduo Wang
-
-Office Hours: xxx, IVC (Zoom Link on Canvas)
-
-Hasan Pourmahmoodaghababa
-
-Office Hours: xxx, IVC (Zoom Link on Canvas)
-
-Hansi Zeng
-
-Office Hours: xxx, IVC (Zoom Link on Canvas)
-
+* Assignments and Grading
+	* Hasan Pourmahmoodaghababa
+		* h[dot]pourmahmoodaghababa[at]utah[dot]edu
+		* Office Hours: Thursday 12:00pm-2:00pm, IVC (Zoom Link on Canvas)
+	* Hansi Zeng
+		* 
+		* Office Hours: Tuesday 3:30pm-5:30pm, IVC (Zoom Link on Canvas)
+* Project Management
+	* Zhenduo Wang
+	* zhenduow[at]cs[dot]utah[dot]edu
+	* Office Hours: appointments only
 
 ## Prerequisites
 
