@@ -15,7 +15,7 @@ Office Hours: Monday 4:30pm-5:30pm, IVC (Zoom Link on Canvas)
 		* h[dot]pourmahmoodaghababa[at]utah[dot]edu
 		* Office Hours: Thursday 12:00pm-2:00pm, IVC (Zoom Link on Canvas)
 	* Hansi Zeng
-		* 
+		* hanszeng[at]cs[dot]utah[dot]edu 
 		* Office Hours: Tuesday 3:30pm-5:30pm, IVC (Zoom Link on Canvas)
 * Project Management
 	* Zhenduo Wang
