@@ -6,7 +6,7 @@ Class Hours: Monday/Wednesday 3:00pm-4:20pm, WEB L101
 
 <a href="http://aiqingyao.org">Qingyao Ai</a> (aiqy[at]cs[dot]utah[dot]edu)
 
-Office Hours: Monday 4:30pm-5:30pm, IVC (Zoom Link on Canvas)
+Office Hours: Wednesday 10:30am-11:30am, MEB 2172 (hallway)
 
 ## TA/TM
 
