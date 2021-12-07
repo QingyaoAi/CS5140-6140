@@ -1,6 +1,6 @@
 # *DS4140/CS5140/CS6140 Data Mining*
 
-Class Hours: Monday/Wednesday 3:00pm-4:20pm, IVC (Zoom Link on Canvas)
+Class Hours: Monday/Wednesday 3:00pm-4:20pm, WEB L101
 
 ## Instructor
 
