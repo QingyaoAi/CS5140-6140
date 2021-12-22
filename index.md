@@ -11,12 +11,12 @@ Office Hours: Wednesday 10:30am-11:30am, MEB 2172 (hallway)
 ## TA/TM
 
 * Assignments and Grading
-	* Hasan Pourmahmoodaghababa
-		* h[dot]pourmahmoodaghababa[at]utah[dot]edu
-		* Office Hours: Thursday 12:00pm-2:00pm, IVC (Zoom Link on Canvas)
-	* Hansi Zeng
-		* hanszeng[at]cs[dot]utah[dot]edu 
-		* Office Hours: Tuesday 3:30pm-5:30pm, IVC (Zoom Link on Canvas)
+	* Zhichao Xu
+		* zhichao[dot]xu[at]utah[dot]edu
+		* Office Hours: To be assigned
+	* Anh Tran 
+		* abtran[at]cs[dot]utah[dot]edu
+		* Office Hours: To be assigned
 * Project Management
 	* Zhenduo Wang
 	* zhenduow[at]cs[dot]utah[dot]edu
