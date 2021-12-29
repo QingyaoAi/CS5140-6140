@@ -1,4 +1,5 @@
 #Jekyll configuration
 name: Data Mining Class Website
 description: Data Mining Class Website
+url: "http://cs5140.aiqingyao.org"
 markdown: GFM
