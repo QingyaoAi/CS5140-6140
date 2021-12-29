@@ -71,8 +71,8 @@ Week 03, 01/26 | Similarity : LSH | M4D 4.6, MMDS 3.4 | Class Project Group Due
 Week 04, 01/31 | Similarity : Distances | M4D 4-4.3, MMDS 3.5+7.1, FoDS 8.1 | Assignment 2 Due
 Week 04, 02/02 | Similarity : Word Embed + ANN vs. LSH | M4D 4.4, MMDS 3.7+7.1.3
 Week 05, 02/07 | Clustering : Hierarchical | M4D 8.5+8.2, MMDS 7.2, FoDS 7.7 | Assignment 3 Due
-Week 06, 02/09 | Clustering : K-Means | M4D 8-8.3, MMDS 7.3, FoDS 7.2-3	| Project Proposal Due
-Week 05, 02/14 | Clustering : Spectral | M4D 10.3, MMDS 10.4, FoDS 7.5
+Week 05, 02/09 | Clustering : K-Means | M4D 8-8.3, MMDS 7.3, FoDS 7.2-3	| Project Proposal Due
+Week 06, 02/14 | Clustering : Spectral | M4D 10.3, MMDS 10.4, FoDS 7.5
 Week 06, 02/16 | Streaming : Model and Misra-Greis | M4D 11.1-11.2.2, FoDS 6.2.3, MMDS 6
 Week 07, 02/21 | Presidents Day | | Assignment 4 Due
 Week 07, 02/23 | Streaming : Count-Min Sketch, Count Sketch, and Apriori | 	M4D 11.2.3-4, FoDS 6.2.3, MMDS 4.3 
