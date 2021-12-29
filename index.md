@@ -59,9 +59,10 @@ The grade will count the assessments using the following proportions (tentative 
 
 ## Tentative Class Schedule
 
+
 Week, Date | Topic | Textbook and Resources | Reminder
 ------------ | ------------- | ------------- | -------------
-Week 01, 01/10 | Class Overview 
+Week 01, 01/10 | Class Overview |
 Week 02, 01/12 | Statistics Principles | M4D 2.2-2.3, MMDS 1.2, FoDS 12.4
 Week 02, 01/17 | Martin Luther King Day | 
 Week 02, 01/19 | Similarity : Jaccard + k-Grams | M4D 4.3-4.4, MMDS 3.1+3.2, FoDS 7.3
