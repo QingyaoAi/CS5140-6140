@@ -13,10 +13,10 @@ Office Hours: Wednesday 10:30am-11:30am, MEB 2172 (hallway)
 * Assignments and Grading
 	* Zhichao Xu
 		* zhichao[dot]xu[at]utah[dot]edu
-		* Office Hours: To be assigned
+		* Office Hours: Thursday 10:30am-11:30am, MEB 3115
 	* Anh Tran 
 		* abtran[at]cs[dot]utah[dot]edu
-		* Office Hours: To be assigned
+		* Office Hours: Monday 10:00am-11:00am, MEB 3115
 * Project Management
 	* Zhenduo Wang
 	* zhenduow[at]cs[dot]utah[dot]edu
