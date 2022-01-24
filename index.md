@@ -66,7 +66,7 @@ Week 01, 01/10 | Class Overview |
 Week 02, 01/12 | Statistics Principles | M4D 2.2-2.3, MMDS 1.2, FoDS 12.4
 Week 02, 01/17 | Martin Luther King Day | 
 Week 02, 01/19 | Similarity : Jaccard + k-Grams | M4D 4.3-4.4, MMDS 3.1+3.2, FoDS 7.3
-Week 03, 01/24 | Similarity : Min Hashing | M4D 4.6.6, MMDS 3.3 | Assignment 1 Due
+Week 03, 01/24 | Similarity : Min Hashing | M4D 4.6.6, MMDS 3.3 | Assignment 1 Due (1/25)
 Week 03, 01/26 | Similarity : LSH | M4D 4.6, MMDS 3.4 | Class Project Group Due
 Week 04, 01/31 | Similarity : Distances | M4D 4-4.3, MMDS 3.5+7.1, FoDS 8.1 | Assignment 2 Due
 Week 04, 02/02 | Similarity : Word Embed + ANN vs. LSH | M4D 4.4, MMDS 3.7+7.1.3
