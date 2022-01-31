@@ -55,7 +55,17 @@ The grade will count the assessments using the following proportions (tentative 
 * __10%__ of your grade will be determined by Mid-term Exam.
 * __10%__ of your grade will be determined by Final Exam.
 * __5%__ of your grade will be determined by your participation. Students who finish the class project, peer reviews, and all assignments/exams will receive the full credits of participation. 
- 
+
+## Late Submission Policy
+For the class proejct and anything related to it, we don't accept any late submission.
+
+For assignments:
+* After the deadline, you will lose 20% (absolute) of the homework grade per day.
+  * Canvas will automatically deduct the points from late submission, so be careful about the submission time!
+* We will grant 1 extension to the __first__ late submission of each student at the end of the semester.
+* We will not accept more than 1 late submission for each assignment.
+
+
 
 ## Tentative Class Schedule
 
